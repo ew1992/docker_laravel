@@ -23,7 +23,7 @@ $ docker-compose up -d --build
 ```
 
 3.Laravelインストール
-  .envファイルを作成し、DB関連の環境変数を設定(docker-laravelディレクトリで作成した.envの内容と一致させる)
+.envファイルを作成し、DB関連の環境変数を設定(docker-laravelディレクトリで作成した.envの内容と一致させる)
 
 ```bash
 $ cd src
