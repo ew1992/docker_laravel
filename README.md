@@ -32,5 +32,4 @@ $ cp .env.sample .env
 $ docker-compose exec app bash
 $ php artisan key:generate
 $ composer install
-$ php artisan key:generate
 ```
